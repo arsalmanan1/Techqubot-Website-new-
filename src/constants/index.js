@@ -120,7 +120,7 @@ export const roadmap = [
   {
     id: "1",
     title: "Axle Fleets",
-    text: "A logistics and Dispatching web App where all the bookings and scheduled seamlessly",
+    text: "A logistics and Dispatching web App where all the bookings are scheduled seamlessly",
     date: "June 2024",
     status: "Completed",
     imageUrl: axlefleets ,
@@ -231,7 +231,7 @@ export const pricing = [
     features: [
       "Budget Friendly and Quick",
       "Complementry Add on Features",
-      "Standing out in competition product",
+      "Standing out in competition",
     ],
   },
   {
